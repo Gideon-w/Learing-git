@@ -1,0 +1,1 @@
+This file is helping me learning new commands that are used in git hope i can learn the version control faster than anticipated.
